@@ -1,0 +1,9 @@
+# Language detection rules
+*.png binary
+*.min.css linguist-generated
+
+*.woff binary
+src/*.ts linguist-detectable
+*.htm linguist-vendored
+*.html linguist-vendored
+Cargo.lock linguist-generated
