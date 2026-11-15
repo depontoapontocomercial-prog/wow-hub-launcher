@@ -1,0 +1,6 @@
+*.log
+dist/
+.env
+.pnpm-store/
+yarn-error.log*
+npm-debug.log*
